@@ -1,6 +1,7 @@
+<div>
 <h1 align="center">Hola! soy Luciano Firpo</h1>
 <h2 align="center">Desarrollador web Full Stack</h2>
-
+</div>
 
 
 
