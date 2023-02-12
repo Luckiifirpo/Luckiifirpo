@@ -1,4 +1,8 @@
-<h1 align="center">#Hola! yo soy Luciano Firpo</h1>
+<h1 align="center">Hola! soy Luciano Firpo</h1>
+<h2 align="center">Desarrollador web Full Stack</h2>
+
+
+
 
 <!--
 **Luckiifirpo/Luckiifirpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
