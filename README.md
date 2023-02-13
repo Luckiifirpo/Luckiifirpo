@@ -8,6 +8,7 @@ Desarrollador web con experiencia en tecnologías como React, Redux, Node.js, Ex
   - HTML, CSS y diseño responsivo
   - JavaScript y ES6+
   - Git y control de versiones
+  - MongoDB y mongoose en progreso!
   
 ## Experiencia
   - Desarrollo de aplicaciones web para el Bootcamp SoyHenry, desde pequeñas páginas hasta aplicaciones complejas.
