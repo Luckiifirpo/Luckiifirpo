@@ -1,4 +1,4 @@
-# Hola!👋 yo soy Luciano Firpo, un gusto conocerte!
+# Hola!👋 soy Luciano Firpo, un gusto conocerte!
 Desarrollador web con experiencia en tecnologías como React, Redux, Node.js, Express, JavaScript, HTML, CSS, PostgreSQL, SQL.
 
 ## Habilidades
