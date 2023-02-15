@@ -26,7 +26,8 @@ Desarrollador web con experiencia en tecnologías como React, Redux, Node.js, Ex
   
 ## Certificaciones
   - Javascript Algorithms and Data Structures: FreeCodeCamp - 05/02/2023
-  
+  - EF SET Standard English Set 59/100 (B2 Upper Intermediate)
+
 ## Contacto
   - Correo electrónico: lucianofirpopp@gmail.com
   - LinkedIn: [Luciano Firpo](https://www.linkedin.com/in/firpo-luciano/)
