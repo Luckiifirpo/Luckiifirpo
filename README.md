@@ -32,3 +32,4 @@ Desarrollador web con experiencia en tecnologías como React, Redux, Node.js, Ex
   - Correo electrónico: lucianofirpopp@gmail.com
   - LinkedIn: [Luciano Firpo](https://www.linkedin.com/in/firpo-luciano/)
   - Portafolio: [Luciano Firpo](https://firpo-luciano.vercel.app) 
+  - Reunión por meet: [Calendly](https://calendly.com/lucianofirpopp/30min)
